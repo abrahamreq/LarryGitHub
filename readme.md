@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Abraham**, Git lover
+**Abraham**, Git & Larry Plotter lover
+
